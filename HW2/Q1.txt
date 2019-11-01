@@ -1,5 +1,6 @@
 		;		created by _MuhmdrezA
 		;		student number: 9631001
+		;		find a pattern in register 
 		;		load student number in R10
 		LDR		R10, =9631001
 PATTERN	EQU		0x5 ;pattern that we must find (2_101)
